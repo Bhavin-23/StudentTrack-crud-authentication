@@ -8,7 +8,7 @@ dotenv.config();
 
 const app = express();
 app.use(cors({
-  origin: "http://localhost:5173", // frontend port (React Vite ka default)
+  origin: "https://studenttrack-crud-authentication.onrender.com", // frontend port (React Vite ka default)
   credentials: true
 }));
 app.use(express.json())

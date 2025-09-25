@@ -20,7 +20,7 @@ It provides **Register/Login** functionality with JWT authentication and allows 
 ---
 
 ## 🛠 Tech Stack
-- **Frontend**: React  
+- **Frontend**: React.js  
 - **Backend**: Node.js + Express  
 - **Database**: MongoDB  
 - **Authentication**: JWT  

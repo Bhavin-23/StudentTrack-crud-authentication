@@ -25,7 +25,10 @@ It provides **Register/Login** functionality with JWT authentication and allows 
 - **Database**: MongoDB  
 - **Authentication**: JWT  
 
----
+## 🌐 Live Demo & Repository
+
+- 🔗 **Live Demo:** [Click here to view](https://student-track-crud-authentication.vercel.app/)  
+ 
 
   
 
